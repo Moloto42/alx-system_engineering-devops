@@ -1,2 +1,2 @@
 #!/bin/bash
-chown +x play_starwars.sh
+chown --from=guillaune betty hello
